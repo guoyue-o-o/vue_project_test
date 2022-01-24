@@ -1,0 +1,17 @@
+<template>
+  <div class="index-box">
+    <h1>
+      我是首页
+    </h1>
+  </div>
+
+</template>
+<script>
+export default {};
+</script>
+
+<style lang="scss" scoped>
+.index-box {
+  background: pink;
+}
+</style>
